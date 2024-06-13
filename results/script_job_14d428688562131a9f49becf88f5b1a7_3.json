@@ -1,0 +1,16 @@
+[{
+  "category": "Office Supplies",
+  "order_year_month": "2302",
+  "sales": "44118.500000000007",
+  "rn": "1"
+}, {
+  "category": "Furniture",
+  "order_year_month": "2210",
+  "sales": "42888.900000000009",
+  "rn": "1"
+}, {
+  "category": "Technology",
+  "order_year_month": "2310",
+  "sales": "53000.100000000013",
+  "rn": "1"
+}]
